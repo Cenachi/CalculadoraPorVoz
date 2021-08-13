@@ -1,0 +1,122 @@
+/*geral*/
+
+body,h1,p, span {
+    margin: 0;
+    font-family: Montserrat;
+}
+
+body {
+    background-color: #0F1722;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px 0;
+    color: #FFF;
+}
+
+/*calcularora*/
+
+#calculator {
+    background-color: #1D293A;
+    width: 300px;
+    height: 150px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 3px;
+}
+
+#screen-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    width: 258px;
+    height: 70px;
+    border: 1px solid #354357;
+    text-align: right;
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+    border-radius: 3px;
+}
+
+#upper-number, #result-number {
+    float: right;
+    color: #FFF;
+}
+
+#result-number {
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 22px;
+    clear: both;
+}
+
+.btn-container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; /*largura*/
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFF;
+    background-color: #354357;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.btn:hover{
+    background-color: #6C63FF;
+}
+
+#ac-btn {
+    margin-left: -200px;
+}
+
+#rect {
+    position: absolute;
+    right: 14px;
+}
+
+#ac-btn, #rect{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+/*Descrição*/
+
+#description{
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 50px;  
+    padding: 1px;    
+    width: 500px;
+    height: 305px;    
+    border-radius: 3px ;
+    background-color: #1D293A;  
+}
+
+#titulo{
+    text-align: center;
+    color: #FFF;
+}
+
+.lin{
+    padding: 2.5px;    
+    color: #FFF;
+}
