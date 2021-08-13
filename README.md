@@ -11,4 +11,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser&hl=pt_BR&gl=US"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Samsung_Internet_logo.svg/2048px-Samsung_Internet_logo.svg.png" width="45" height="45" align="left" hspace="1"></a> 
 <a href="https://play.google.com/store/apps/details?id=com.google.android.webview&hl=pt_BR&gl=US"><img src="https://play-lh.googleusercontent.com/5feC2vFFGZ8ZG7-qt8vvyGjtqjHYl6kYNlcYWZCzF27QIvgmg1NyI9u2NnSgKGzBIg=s180-rw" width="45" height="45" align="left" hspace="1"></a> 
 
+<li class="lin">Chrome/Chrome Android</li>
+<li class="lin">Edge</li>
+<li class="lin">Safari/Safari on iOS</li>
+<li class="lin">Samsung Internet</li>
+<li class="lin">WebView Android</li>
+
 
