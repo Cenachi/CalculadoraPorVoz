@@ -1,4 +1,6 @@
-<h1>Calculadora Por Voz.js</h1>
+<h1>Calculadora Por Voz </h1> <a href="https://github.com/Cenachi/CalculadoraPorVoz"><img src="https://image.flaticon.com/icons/png/512/522/522506.png" width="45" height="45" align="left" hspace="1"></a> 
+
+
 
 <p>➥ Esta é uma calculadora web capaz de receber as operações por comando de voz.</p>
 <p>➥ Ela utiliza a Web Speech API responsável pela captura da voz.</p>
