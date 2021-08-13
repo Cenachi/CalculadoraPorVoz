@@ -1,4 +1,4 @@
-# Calculadora Por Voz.js
+<h1>Calculadora Por Voz.js</h1>
 
 <p>➥ Esta é uma calculadora web capaz de receber as operações por comando de voz.</p>
 <p>➥ Ela utiliza a Web Speech API responsável pela captura da voz.</p>
