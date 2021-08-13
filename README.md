@@ -1,4 +1,4 @@
-<h1>Calculadora Por Voz <a href="https://github.com/Cenachi/CalculadoraPorVoz"><img src="https://w7.pngwing.com/pngs/206/804/png-transparent-scientific-calculator-computer-icons-app-store-calculator-electronics-rectangle-logo.png" width="45" height="45" align="left" hspace="1"></a>  </h1>
+<h1>Calculadora Por Voz <a href="https://github.com/Cenachi/CalculadoraPorVoz"><img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Calculator_30001.png" width="45" height="45" align="left" hspace="1"></a>  </h1>
 
 
 
